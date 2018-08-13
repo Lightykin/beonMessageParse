@@ -1,0 +1,12 @@
+C:\Users\RX-78\source\repos\BeonParse_SeleniumConsoleApp\BeonParse_SeleniumConsoleApp\bin\Debug\BeonParse_SeleniumConsoleApp.exe.config
+C:\Users\RX-78\source\repos\BeonParse_SeleniumConsoleApp\BeonParse_SeleniumConsoleApp\bin\Debug\BeonParse_SeleniumConsoleApp.exe
+C:\Users\RX-78\source\repos\BeonParse_SeleniumConsoleApp\BeonParse_SeleniumConsoleApp\bin\Debug\BeonParse_SeleniumConsoleApp.pdb
+C:\Users\RX-78\source\repos\BeonParse_SeleniumConsoleApp\BeonParse_SeleniumConsoleApp\bin\Debug\WebDriver.dll
+C:\Users\RX-78\source\repos\BeonParse_SeleniumConsoleApp\BeonParse_SeleniumConsoleApp\bin\Debug\WebDriver.xml
+C:\Users\RX-78\source\repos\BeonParse_SeleniumConsoleApp\BeonParse_SeleniumConsoleApp\obj\Debug\BeonParse_SeleniumConsoleApp.csprojAssemblyReference.cache
+C:\Users\RX-78\source\repos\BeonParse_SeleniumConsoleApp\BeonParse_SeleniumConsoleApp\obj\Debug\BeonParse_SeleniumConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\RX-78\source\repos\BeonParse_SeleniumConsoleApp\BeonParse_SeleniumConsoleApp\obj\Debug\BeonParse_SeleniumConsoleApp.csproj.CopyComplete
+C:\Users\RX-78\source\repos\BeonParse_SeleniumConsoleApp\BeonParse_SeleniumConsoleApp\obj\Debug\BeonParse_SeleniumConsoleApp.exe
+C:\Users\RX-78\source\repos\BeonParse_SeleniumConsoleApp\BeonParse_SeleniumConsoleApp\obj\Debug\BeonParse_SeleniumConsoleApp.pdb
+C:\Users\RX-78\source\repos\BeonParse_SeleniumConsoleApp\BeonParse_SeleniumConsoleApp\bin\Debug\WebDriver.Support.dll
+C:\Users\RX-78\source\repos\BeonParse_SeleniumConsoleApp\BeonParse_SeleniumConsoleApp\bin\Debug\WebDriver.Support.xml
